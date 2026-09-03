@@ -228,6 +228,6 @@ I'm **SAIFUL ISLAM** — a passionate **Computer Science & Engineering** student
 
 <div align="center">
   
-⭐ **Thanks for stopping by! Keep coding, keep building, keep growing.** ⭐
+⭐ **Code. Learn. Repeat.** ⭐
 
 </div>
