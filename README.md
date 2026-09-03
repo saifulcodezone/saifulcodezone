@@ -184,7 +184,11 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2563eb&style=for-the-badge&label=VISITORS)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <br/>
+  <img src="https://img.shields.io/badge/🌟_PREMIUM_VISITOR-🤍_TRACKING-0a0a0a?style=for-the-badge&labelColor=1a1a2e&color=6c63ff" />
+</div>
 
 </div>
 
