@@ -3,13 +3,12 @@
   <img src="https://github.com/saifulcodezone/saifulcodezone/blob/21e4ecc2a414947f3b634604048cc0c5bb339b34/Linkdin%20Cover.png"/>
 </div>
 
-<!-- Animated Quote -->
+
 
 <br/>
-
-<!-- Typing Animation -->
+<!-- Animated Name -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=AI-Native+Full+Stack+Developer;CS+Student+%26+Tech+Enthusiast;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=SAIFUL+ISLAM" alt="SAIFUL ISLAM" />
 </div>
 
 <br/>
