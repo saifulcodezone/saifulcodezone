@@ -222,7 +222,7 @@ I'm **SAIFUL ISLAM** — a passionate **Computer Science & Engineering** student
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
 
 <div align="center">
