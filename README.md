@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=SAIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=55" width="100%" alt="Saiful Islam Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=SAIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full%20Stack%20Engineer" width="100%" alt="Saiful Islam Banner"/>
 </div>
 
 <!-- Animated Quote -->
