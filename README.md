@@ -143,8 +143,6 @@ I'm **SAIFUL ISLAM** — a passionate **Computer Science & Engineering** student
 
 ## ✨ Featured Projects
 
-> **Note:** আপনার রিপোজিটরি তৈরি হলে নিচের লিংকগুলো আপডেট করবেন।
-
 <div align="center">
   <table>
     <tr>
