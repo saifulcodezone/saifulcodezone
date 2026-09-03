@@ -1,19 +1,15 @@
-<!-- 
-██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
-██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
-██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
--->
-
+<!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f172a,100:2563eb&text=Saiful%20Islam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=65" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=SAIFUL%20ISLAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=55" width="100%" alt="Saiful Islam Banner"/>
 </div>
+
+<!-- Animated Quote -->
+
+<br/>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;CS+Student+%26+Tech+Enthusiast;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=AI-Native+Full+Stack+Developer;CS+Student+%26+Tech+Enthusiast;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing Animation"/>
 </div>
 
 <br/>
@@ -24,13 +20,14 @@
 
 > *"Crafting digital experiences with code, creativity, and curiosity."*
 
-I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering** student on a mission to build impactful, scalable, and beautiful web applications. I believe in the power of clean code, continuous learning, and turning complex problems into elegant solutions.
+I'm **SAIFUL ISLAM** — a passionate **Computer Science & Engineering** student and **AI-Native Full Stack Engineer** on a mission to build impactful, scalable, and intelligent web applications. I leverage AI-powered tools and modern tech stacks to create innovative solutions.
 
 <table>
   <tr>
     <td valign="top" width="60%">
       
 - 🎓 **CSE Student** @ Leading University  
+- 🤖 **AI-Native Developer** — Using AI to accelerate development  
 - 🌱 Currently diving deep into **Full-Stack Development**  
 - 💡 Exploring **System Design**, **Cloud Computing**, and **DevOps**  
 - 🔭 Building **real-world projects** that solve actual problems  
@@ -53,25 +50,33 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 
 ### 🚀 Core Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Styling & Tools
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-6C63FF?style=for-the-badge&logo=auth0&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI & Mindset
+
+![AI Assistant](https://img.shields.io/badge/AI_Assistant-00D4FF?style=for-the-badge&logo=openai&logoColor=white)
+![AI Mindset](https://img.shields.io/badge/AI_Mindset-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)
 
 ### 🗄️ Database & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -86,21 +91,28 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
         <br/>
         <b>Frontend</b>
         <br/>
         <small>React, Tailwind CSS</small>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
         <br/>
         <b>Backend</b>
         <br/>
         <small>Node.js, Express, REST APIs</small>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+        <br/>
+        <b>Database</b>
+        <br/>
+        <small>MongoDB, Mongoose</small>
+      </td>
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
         <br/>
         <b>DevOps</b>
@@ -131,29 +143,31 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 
 ## ✨ Featured Projects
 
+> **Note:** আপনার রিপোজিটরি তৈরি হলে নিচের লিংকগুলো আপডেট করবেন।
+
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1"/>
+        <a href="https://github.com/saifulcodezone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=saifulcodezone&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Profile Repo"/>
         </a>
       </td>
       <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2"/>
+        <a href="https://github.com/saifulcodezone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=saifulcodezone&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Profile Repo"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=project-3&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 3"/>
+        <a href="https://github.com/saifulcodezone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=saifulcodezone&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Profile Repo"/>
         </a>
       </td>
       <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=project-4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 4"/>
+        <a href="https://github.com/saifulcodezone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=saifulcodezone&repo=saifulcodezone&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Profile Repo"/>
         </a>
       </td>
     </tr>
@@ -183,16 +197,32 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 </p>
 
 ---
-
 ## 👁️ Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/saifulcodezone/count.svg" alt="Visitor Count"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🌟_PREMIUM_VISITOR-🤍_TRACKING-0a0a0a?style=for-the-badge&labelColor=1a1a2e&color=6c63ff" alt="Premium Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=saifulcodezone&label=👀+VISITORS&color=6c63ff&style=for-the-badge" alt="Visitor Count"/>
 </div>
 
----
+## 🎯 2026 Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🚀 Become a professional Full-Stack Developer</td>
+      <td align="center">⚛️ Build production-ready Next.js apps</td>
+    </tr>
+    <tr>
+      <td align="center">🖥️ Strengthen Node.js backend skills</td>
+      <td align="center">🗄️ Improve PostgreSQL & database design</td>
+    </tr>
+    <tr>
+      <td align="center">🧠 Improve problem-solving & DSA</td>
+      <td align="center">🤝 Contribute to open-source projects</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
@@ -200,8 +230,6 @@ I'm **Mohammad Saiful Islam** — a passionate **Computer Science & Engineering*
 
 <div align="center">
   
-### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
-
 ⭐ **Thanks for stopping by! Keep coding, keep building, keep growing.** ⭐
 
 </div>
